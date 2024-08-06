@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BankGUI
+comment0.text=\r\n\ This\ class\ is\ used\ to\ create\ a\ Graphical\ User\ Interface\ of\ the\ bank\ ATM\ system\ and\ use\ the\ codes\ from\ other\ classes\ as\ well\ to\ create\ a\ fully\ functional\ system.\r\n\r\n\ @author\ (Aarav\ Jayswal)\r\n\ @version\ (5th\ May,2023)\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ home()
+comment4.params=
+comment4.target=void\ debit()
+comment5.params=
+comment5.target=void\ credit()
+numComments=6

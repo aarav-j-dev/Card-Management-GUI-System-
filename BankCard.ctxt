@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BankCard
+comment0.text=\r\nThis\ class\ is\ the\ parent\ class\ and\ is\ used\ to\ pass\ values\ of\ the\ variables\ in\ the\ child\ classes\ from\ the\ parameters.\r\n\r\n\ @author\ (Aarav\ Jayswal)\r\n\ @version\ (4\ May,2023)\r\n
+comment1.params=cardId\ bankaccount\ BalanceAmount\ issuerBank
+comment1.target=BankCard(int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getcardId()
+comment3.params=
+comment3.target=java.lang.String\ getbankaccount()
+comment4.params=
+comment4.target=int\ getBalanceAmount()
+comment5.params=
+comment5.target=java.lang.String\ getclientname()
+comment6.params=
+comment6.target=java.lang.String\ getissuerBank()
+comment7.params=clientname
+comment7.target=void\ setclientname(java.lang.String)
+comment8.params=BalanceAmount
+comment8.target=void\ setBalanceAmount(int)
+comment9.params=
+comment9.target=void\ display()
+numComments=10
